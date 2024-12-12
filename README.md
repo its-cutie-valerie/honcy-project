@@ -1,6 +1,7 @@
 # Honk Compendium API 🦢
 
 The **Honk Compendium API** is a backend service that provides random goose facts and allows for adding, deleting, and retrieving facts. Built for the **HONC Hackathon**, this project uses the HONC stack: **Hono**, **Drizzle ORM**, **Neon**, and Cloudflare Workers.
+**Live Demo:** [Random Fact](https://honk-compendium.valernov00.workers.dev/facts/random)
 
 ## Features ✨
 

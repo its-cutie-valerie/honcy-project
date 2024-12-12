@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "ESNext",
+    "strict": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "skipLibCheck": true,
+    "outDir": "./dist", 
+    "rootDir": "./src",
+    "resolveJsonModule": true,
+    "lib": ["es2020", "dom"],
+    "types": ["@cloudflare/workers-types"],
+  },
+  "include": ["src/**/*"],
+  // "exclude": ["node_modules"]
+}

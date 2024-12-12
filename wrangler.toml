@@ -1,0 +1,11 @@
+name = "honk-compendium"
+main = "src/index.ts"
+compatibility_date = "2024-12-12"
+compatibility_flags = ["nodejs_compat"]
+
+route = ""
+account_id = "4bf42621ec570cb206ebfb60a8a6f7be"
+
+[vars]
+DATABASE_URL = "postgresql://neondb_owner:ejToDQM1UxY7@ep-cool-wildflower-a2kb2drv.eu-central-1.aws.neon.tech/neondb?sslmode=require"
+
